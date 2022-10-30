@@ -1,5 +1,5 @@
 # Multivariate-Time-Series-Forecasting-SalesData
-Mutlivariate time series forecasting using Conv1D,LSTMS and analzing sales data using power BI and deploying the model using Azure
+
 
 Overview :
 
