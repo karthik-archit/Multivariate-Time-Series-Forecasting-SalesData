@@ -7,7 +7,7 @@ Mutistep-Mutlivariate Time series forecasting. Different datasets were combined 
 
 Dataset Source :
 
-Kaggle Competition Dataset
+Kaggle Competition Dataset - https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
 
 Libraries Used :
 
