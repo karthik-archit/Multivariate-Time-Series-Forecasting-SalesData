@@ -3,7 +3,7 @@
 
 Overview :
 
-Mutistep-Mutlivariate Time series forecasting. Different datasets were combined by building relationships using Power bi. Data Analysis and visualization was done using Power Bi. Finally a dataset was formed using the important features. The Data cleaning and pre-processing was performed. Dataset had some important categorical features with many unique values that can contribute towards the accuracy of the model. So they were binary encoded using the category encoders library. A custom data generator function is used to create training data with past sales data’s independent variables and future sales . Finally the data is fit on a sequential model with stack containing a combination of Conv1D and LSTM layers. The trained model was then saved and encoders were pickled as part of the preparation for deployment. Model was deployed on azure cloud using AzureMl SDK.
+Mutistep-Mutlivariate Time series forecasting. Different datasets were combined by building relationships using Power bi. Data Analysis and visualization was done using Power Bi. Finally a dataset was formed using the important features. The Data cleaning and pre-processing was performed. Dataset had some important categorical features with many unique values that can contribute towards the accuracy of the model. So they were binary encoded using the category encoders library. A custom data generator function is used to create training data with past sales data’s independent variables and future sales . Finally the data is fit on a sequential model with stack containing a combination of Conv1D and LSTM layers. The trained model was then saved and encoders were pickled as part of the preparation for deployment. Model was deployed using AzureMl Service.
 
 Dataset Source :
 
